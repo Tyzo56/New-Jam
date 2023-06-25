@@ -17,16 +17,15 @@ public class PlayerMove : MonoBehaviour
         inputY = Input.GetAxis("Vertical");
 
         Vector3 input = new Vector3(inputX, 0f, inputY);
+ 
+    }
 
-
-        // transform.position += input * Time.deltaTime * speed;
-
+    private void FixedUpdate()
+    {
         int health = transform.GetComponent<BaseHealth>().GetHealth();
-
         rb.mass = health * 0.009f;
 
-        rb.AddForce(new Vector3(0f,0f,3f) * inputY * speed, ForceMode.Impulse);
-        rb.AddForce(new Vector3(3f, 0f, 0f) * inputX * speed, ForceMode.Impulse);
-
+        rb.AddForce(new Vector3(0f, 0f, 3f) * inputY * speed * Time.deltaTime, ForceMode.Impulse);
+        rb.AddForce(new Vector3(3f, 0f, 0f) * inputX * speed * Time.deltaTime, ForceMode.Impulse);
     }
 }
