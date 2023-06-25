@@ -9,7 +9,7 @@ public class camera : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        transform.position = new Vector3(target.transform.position.x, 5, target.transform.position.z);
+        transform.position = new Vector3(target.transform.position.x, 7, target.transform.position.z);
     }
 
     // Update is called once per frame
@@ -19,6 +19,6 @@ public class camera : MonoBehaviour
         
         Vector3 position = target.position;
         position.y = transform.position.y;
-        transform.position = Vector3.Lerp(new Vector3(transform.position.x, 105-health ,transform.position.z), position, speed * Time.deltaTime);
+        transform.position = Vector3.Lerp(new Vector3(transform.position.x, 107-health ,transform.position.z), position, speed * Time.deltaTime);
     }
 }
