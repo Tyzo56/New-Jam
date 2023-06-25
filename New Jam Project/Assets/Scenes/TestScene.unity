@@ -1554,6 +1554,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4753897778869771498, guid: 01216b269bc6a2d4bab23596da3ef497, type: 3}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 8704084907920425674, guid: 01216b269bc6a2d4bab23596da3ef497, type: 3}
       propertyPath: m_Name
       value: Sugar
