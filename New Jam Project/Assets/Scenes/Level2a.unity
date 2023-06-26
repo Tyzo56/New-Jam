@@ -12796,7 +12796,7 @@ PrefabInstance:
     - target: {fileID: 3100978964647518429, guid: 01216b269bc6a2d4bab23596da3ef497, type: 3}
       propertyPath: EndGame
       value: 
-      objectReference: {fileID: 7984368944857421671}
+      objectReference: {fileID: 1055299938}
     - target: {fileID: 3890390872571203282, guid: 01216b269bc6a2d4bab23596da3ef497, type: 3}
       propertyPath: m_RootOrder
       value: 23
