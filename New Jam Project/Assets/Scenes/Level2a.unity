@@ -6601,10 +6601,14 @@ Light:
 <<<<<<< HEAD
   m_Color: {r: 0.7771565, g: 0.8490566, b: 0.48380205, a: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 >>>>>>> parent of 82407ec (Revert "теперь точно 1.0")
   m_Intensity: 1
+=======
+  m_Intensity: 0.7
+>>>>>>> parent of 7e0059c (47)
 =======
   m_Intensity: 0.7
 >>>>>>> parent of 7e0059c (47)
