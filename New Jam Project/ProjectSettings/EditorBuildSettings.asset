@@ -8,6 +8,7 @@ EditorBuildSettings:
   - enabled: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     path: Assets/Scenes/MainMenu.unity
     guid: bdcb0734a7d3d73409f59e378f04c711
 <<<<<<< HEAD
@@ -18,11 +19,14 @@ EditorBuildSettings:
   - enabled: 0
 =======
 >>>>>>> parent of 7e0059c (47)
+=======
+>>>>>>> parent of 7e0059c (47)
     path: Assets/Scenes/TestScene.unity
     guid: 0bf8c8ed7be300d4eab6e6204f4d9296
   - enabled: 1
     path: Assets/Scenes/WinScene.unity
     guid: cfb1832d6c8e1a140b52e10ffe7124b3
+<<<<<<< HEAD
 <<<<<<< HEAD
   - enabled: 0
     path: Assets/Scenes/Level1.unity
@@ -51,6 +55,17 @@ EditorBuildSettings:
     guid: d2e6f170cdf492748945d438adbfe392
 >>>>>>> parent of 82407ec (Revert "теперь точно 1.0")
 =======
+  - enabled: 1
+    path: Assets/Scenes/Level2a.unity
+    guid: e4f4f8773f267f44fa0e7f797d428e44
+>>>>>>> parent of 7e0059c (47)
+=======
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: dfc8e7369abeaae498244654525c006c
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 59997b37957f7114b9fd239b1129317f
   - enabled: 1
     path: Assets/Scenes/Level2a.unity
     guid: e4f4f8773f267f44fa0e7f797d428e44
