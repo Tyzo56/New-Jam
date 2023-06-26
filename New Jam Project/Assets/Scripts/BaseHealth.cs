@@ -9,11 +9,6 @@ public class BaseHealth : MonoBehaviour
 
     public virtual void ReccountHealth(int value)
     {
-        if (currentHealth <= 0)
-        {
-
-            EndGame.GetComponent<EndGame>().Lose("Как и  этот кубик сахара, наши мечты и желания могут растворяться и исчезать, оставляя нас с горечью и разочарованием.");
-        }
         currentHealth += value;
         
         if(currentHealth <= 0)
