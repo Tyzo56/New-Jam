@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Water
       objectReference: {fileID: 0}
+    - target: {fileID: 1584648966540846101, guid: f35d0fc6448f4c54ea13ab6520cc35fa, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8278143873624532389, guid: f35d0fc6448f4c54ea13ab6520cc35fa, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -238,6 +242,10 @@ PrefabInstance:
     - target: {fileID: 3026721333244251675, guid: 144f7964bc9099b4fab048fca0738f15, type: 3}
       propertyPath: m_Name
       value: EndGame
+      objectReference: {fileID: 0}
+    - target: {fileID: 3026721333244251675, guid: 144f7964bc9099b4fab048fca0738f15, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4346169332970702733, guid: 144f7964bc9099b4fab048fca0738f15, type: 3}
       propertyPath: m_RootOrder
@@ -551,9 +559,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8391222552659086748, guid: 749225c6fbbbc0f449e2f3da6d67aec7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 749225c6fbbbc0f449e2f3da6d67aec7, type: 3}
       propertyPath: m_Name
       value: SugarBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 749225c6fbbbc0f449e2f3da6d67aec7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -1592,9 +1608,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 309434361106184430, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121595861749390427, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2524600169895620362, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3898894619577881540, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4988059347909520243, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
       propertyPath: m_Name
       value: TeaSpoon (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4988059347909520243, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4988059347909520245, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
       propertyPath: m_RootOrder
@@ -1640,9 +1676,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4988059349202417235, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4988059349202417240, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
       propertyPath: existTime
       value: 3.402823e+38
+      objectReference: {fileID: 0}
+    - target: {fileID: 7464514284261965881, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8279462075358842235, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8302960708349628788, guid: 1c12eaf52328d80499b86a1bed1c90ed, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1716,6 +1768,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 483e6f1f4afdc974294c88890e362bf3, type: 3}
       propertyPath: m_Name
       value: glass 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 483e6f1f4afdc974294c88890e362bf3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2490,6 +2546,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Health
       objectReference: {fileID: 0}
+    - target: {fileID: 6453054057696749143, guid: 358433febf462a3458ae258fa8770a8c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9175541641649150057, guid: 358433febf462a3458ae258fa8770a8c, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -3219,7 +3279,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &670447253
 MeshCollider:
@@ -3302,7 +3362,7 @@ Transform:
   m_GameObject: {fileID: 670447252}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 40, y: -23.8, z: -7}
-  m_LocalScale: {x: 70, y: 1, z: 70}
+  m_LocalScale: {x: 100, y: 1, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -5412,6 +5472,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SceneLoader
       objectReference: {fileID: 0}
+    - target: {fileID: 877551726924776764, guid: 121d27ed43a2dfa4f9b516fc3701b7c2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1256812094448645508, guid: 121d27ed43a2dfa4f9b516fc3701b7c2, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -5577,6 +5641,10 @@ PrefabInstance:
     - target: {fileID: 6453054057696749143, guid: 358433febf462a3458ae258fa8770a8c, type: 3}
       propertyPath: m_Name
       value: Health (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6453054057696749143, guid: 358433febf462a3458ae258fa8770a8c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9175541641649150057, guid: 358433febf462a3458ae258fa8770a8c, type: 3}
       propertyPath: m_RootOrder
@@ -6217,9 +6285,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5568371526223589888, guid: 967ba095797eada469993d803ac48ac8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 967ba095797eada469993d803ac48ac8, type: 3}
       propertyPath: m_Name
       value: fe8a711215ae9d30
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 967ba095797eada469993d803ac48ac8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8513859187771203891, guid: 967ba095797eada469993d803ac48ac8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6518,14 +6598,14 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.7771565, g: 0.8490566, b: 0.48380205, a: 1}
-  m_Intensity: 0.7
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 1
+    m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -6651,6 +6731,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0d26081c6517e914fad4ef6192c7b744, type: 3}
       propertyPath: m_Name
       value: glass
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d26081c6517e914fad4ef6192c7b744, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6924,7 +7008,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e517f113728610140ac1116b4defec14, type: 2}
+  - {fileID: 2100000, guid: cd33ef81e34e62241892b298321a1ecf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12757,9 +12841,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4912085408662525190, guid: 01216b269bc6a2d4bab23596da3ef497, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8704084907920425674, guid: 01216b269bc6a2d4bab23596da3ef497, type: 3}
       propertyPath: m_Name
       value: Sugar
+      objectReference: {fileID: 0}
+    - target: {fileID: 8704084907920425674, guid: 01216b269bc6a2d4bab23596da3ef497, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13443,6 +13535,10 @@ PrefabInstance:
     - target: {fileID: 1584648966540846101, guid: f35d0fc6448f4c54ea13ab6520cc35fa, type: 3}
       propertyPath: m_Name
       value: Water (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1584648966540846101, guid: f35d0fc6448f4c54ea13ab6520cc35fa, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8278143873624532389, guid: f35d0fc6448f4c54ea13ab6520cc35fa, type: 3}
       propertyPath: m_RootOrder
@@ -14289,6 +14385,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: af533ad2d7b41834d807cee6d42bd88d, type: 3}
       propertyPath: m_Name
       value: sugar
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: af533ad2d7b41834d807cee6d42bd88d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
